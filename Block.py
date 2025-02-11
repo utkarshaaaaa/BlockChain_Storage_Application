@@ -1,6 +1,6 @@
 from hashlib import sha256
 #python run_app.py
-#python peer.py
+#python peer.py j
 class Block:
    
     def __init__(self, index, transactions, prev_hash):
